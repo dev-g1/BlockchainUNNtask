@@ -1,0 +1,86 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+body{
+    font-size: 16px;
+    background-color: hsl(217, 54%, 11%);
+    font-family: 'Outfit', sans-serif;
+    letter-spacing: .2px;
+}
+
+.equilibrum{
+    width: 260px;
+    border-radius: 10px;
+    margin-left: 15px;
+    margin-top: 10px;
+}
+h1{
+    font-size: 18px;
+    padding: 10px 10px 10px 0;
+    color: hsl(0, 0%, 100%);
+    letter-spacing: 1px;
+}
+
+div p, h1, img{
+    margin-left: 15px;
+}
+.card{
+    border: 2px ;
+    border-color: hsl(215, 32%, 27%);
+    width: 290px;
+    border-radius: 10px;  
+    padding: 10px;
+    margin: 100px 700px ;
+    background-color: hsl(216, 50%, 16%);
+    box-shadow: 6px 6px  5px hsl(216, 50%, 16%) ;
+}
+div p{
+    padding: 10px 10px 10px 0;
+    color: hsl(215, 51%, 70%);
+}
+hr{
+    width: 250px;
+    margin-left: 20px;
+
+}
+.jules{
+    width: 30px;
+    height: 30px;
+    outline-color: white;
+    outline-style: solid;
+    outline-offset: 0.2px;
+    outline-width: thin;
+    border-radius: 60px;
+    padding-right: 5px;
+    padding-bottom: 5px;
+
+}
+#jules{
+    display: flex;
+    flex-wrap: wrap;
+    padding: 10px 10px 10px 5px;
+    letter-spacing: .5px;
+}
+
+.span{
+    padding: 10px 10px 10px 0;
+    font-size: 16px;
+    margin-bottom: 10px;
+}
+.creation{
+    padding: 10px;
+}
+#creation{
+    color: hsl(215, 51%, 70%);
+}
+.span1{
+    color: hsl(178, 100%, 50%);
+}
+.span2{
+    color: hsl(215, 51%, 70%);
+    padding-left: 65px;
+}
+small{
+    color: hsl(0, 0%, 100%)
+}
